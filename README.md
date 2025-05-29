@@ -12,9 +12,9 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently building real-world apps with **Python & Django**
-- 🌱 Improving my skills in **DRF, PostgreSQL, Docker & AWS**
+- 🌱 Improving my skills in **DRF, PostgreSQL, AWS**
 - 🧠 Learning DevOps tools and API design best practices
-- 💬 Ask me about **Python, Django, REST APIs, Git, Linux**
+- 💬 Ask me about **Python, Django, REST APIs, Git**
 - 📫 Reach me at: **dipaksitoula29@gmail.com**
 - ⚡ Fun fact: I love turning coffee ☕ into code!
 
@@ -40,15 +40,13 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" alt="AWS" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="Figma" />
 </p>
 
@@ -73,9 +71,7 @@
 
 - ✅ A task manager with Django & PostgreSQL  
 - ✅ A REST API for a blogging platform  
-- ✅ A deployment pipeline with Docker & AWS EC2  
-
-_Visit my pinned repositories below to explore my work._
+- ✅ Learning AWS EC2 & project deployment  
 
 ---
 
