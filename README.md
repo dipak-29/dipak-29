@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi there, I'm Dipak Sitoula</h1>
-<h3 align="center">🚀 Python & Django Developer | Backend Enthusiast | Based in Nepal</h3>
+<h3 align="center">📊 Aspiring Data Analyst | Python Enthusiast | Based in Nepal</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Backend+Developer;Building+REST+APIs+with+Django;Always+Learning+and+Improving&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Driven+Decisions+with+Python;Exploring+Data+with+Pandas+%26+NumPy;Always+Learning+and+Improving&center=true&width=500&height=45">
 </p>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" alt="Coding" width="400"/>
@@ -11,12 +11,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building real-world apps with **Python & Django**
-- 🌱 Improving my skills in **DRF, PostgreSQL, AWS**
-- 🧠 Learning DevOps tools and API design best practices
-- 💬 Ask me about **Python, Django, REST APIs, Git**
+- 🔍 Diving into the world of **data analytics and visualization**
+- 🌱 Gaining deeper insights into **NumPy, Pandas, Matplotlib**
+- 🧠 Expanding skills in **SQL, PostgreSQL, and Python for data**
+- 💬 Ask me about **Python, Data Analysis, PostgreSQL, Git**
 - 📫 Reach me at: **dipaksitoula29@gmail.com**
-- ⚡ Fun fact: I love turning coffee ☕ into code!
+- ⚡ Fun fact: I love transforming data into stories 📊
 
 ---
 
@@ -42,12 +42,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" alt="AWS" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="NumPy" />
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="40" alt="Pandas" />
+  <img src="https://matplotlib.org/_static/images/logo2.svg" height="40" alt="Matplotlib" />
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" height="40" alt="Excel" />
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" height="40" alt="Power BI" />
 </p>
 
 ---
@@ -65,20 +66,10 @@
 
 ---
 
-### 🧰 Projects & Contributions
-
-🛠 I’m currently working on:
-
-- ✅ A task manager with Django & PostgreSQL  
-- ✅ A REST API for a blogging platform  
-- ✅ Learning AWS EC2 & project deployment  
-
----
-
 ### 💡 Fun Terminal Quote
 
 ```bash
 $ python
 >>> import motivation
 >>> print(motivation.quote())
-"Code. Learn. Repeat. 💻"
+"Code. Learn. Analyze. Repeat. 📊"
